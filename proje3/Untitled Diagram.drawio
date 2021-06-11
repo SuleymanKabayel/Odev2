@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T20:07:53.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="IUa5xEiQ9fzJKnT63pnR" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T20:29:21.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Cex9cs-gV53PDIK858ga" version="14.7.7" type="github">
   <diagram id="d9RIGEFS8mqjEgY6199l" name="Sayfa -1">
     <mxGraphModel dx="1185" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,26 +103,26 @@
             <mxPoint x="530" y="304.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-26" value=":Bitki arama&lt;br&gt;&amp;nbsp;ekran Sınıfı" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-26" value=":hatırlatıcı&lt;br&gt;&amp;nbsp;ekran Sınıfı" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-27" value=":bitki arama&lt;br&gt;&amp;nbsp;Kontrol Sınıfı" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-27" value=":hatırlatıcı&lt;br&gt;&amp;nbsp;Kontrol Sınıfı" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-28" value=":bitkiler&amp;nbsp;&lt;br&gt;Sınıfı" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="730" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-28" value=":hatırlatıcı&amp;nbsp;&lt;br&gt;Sınıfı" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-29" value="1-kulanıcı bitkiyi eklemek&lt;br&gt;için bitki eklemeye gidereke istediği&lt;br&gt;&amp;nbsp;bitkiyi seçer" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="245" width="200" height="50" as="geometry" />
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-29" value="1-kulanıcı hatırlatıucı eklemek&lt;br&gt;için hatırlatıcı ekranından&lt;br&gt;hatırlatıcıyı aktif hale getirir" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="245" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-30" value="2- arma isteği iletilir" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="260" width="120" height="20" as="geometry" />
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-30" value="2- aktif hale getirme&lt;br&gt;isteği iletilir" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="255" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-31" value="3- bitki adı kontrol edılır" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="260" width="140" height="20" as="geometry" />
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-31" value="3- hatırlatıcı kontrol edılır" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MTr2dp9KbdzSwZKZryS6-32" value="4- sistem aynı isimleri taşıyan&amp;nbsp;&lt;br&gt;bitkil bulunmadığı bilgisi&lt;br&gt;&amp;nbsp;gönderilir" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="345" width="180" height="50" as="geometry" />
+        <mxCell id="MTr2dp9KbdzSwZKZryS6-32" value="4- hatırlatıcının başarılı bir&amp;nbsp;&lt;br&gt;şekilde ayarlandığı bildirilir" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="355" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MTr2dp9KbdzSwZKZryS6-33" value="5- ekrana iletilir" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="100" height="20" as="geometry" />
